@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#PetrusDeAilly">Petrus de Ailly</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-09-07">September 7, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-f6y7ur">BnF, département Arsenal, 4-T-1421 (1)</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-09-07" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="1-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="qweqwe-e14111"> <!-- prae -->
+            <head xml:id="qweqwe-e14111-Hd1e102">Praeambulum</head>
+            <head xml:id="qweqwe-e14111-Hd1e104" type="question-title">Recommendatio doctrinae evangelicae in generali</head>
+            <p xml:id="qweqwe-e14111-d1e107">
+               <pb ed="#P" n="1-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>¶ Incipit prologus super lecturam 
+      <lb ed="#P" n="2"/>sententiarum reuerendissimi in christo 
+      <lb ed="#P" n="3"/>patris et domini magistri petri de 
+      ail<lb ed="#P" n="4" break="no"/>lyaco In sacra pagina professoris 
+      fa<lb ed="#P" n="5" break="no"/>ma super ethera noti / nec non 
+      cardina<lb ed="#P" n="6" break="no"/>lis quodam cameraoe non meritissimi In 
+      <lb ed="#P" n="7"/>quo theologicam scientiam aliis (ut equum 
+      <lb ed="#P" n="8"/>est) prefert scientiis humanitus 
+      adin<lb ed="#P" n="9" break="no"/>uentis multipliciter eam commendans 
+      <lb ed="#P" n="10"/>et extollens. 
+      <lb ed="#P" n="11"/>ue nam doctrina 
+      <lb ed="#P" n="12"/>haec noua: Ista 
+      quaesti<lb ed="#P" n="13" break="no"/>o mouetur Marci 
+      <lb ed="#P" n="14"/>primo capitulo 
+    </p>
+            <p xml:id="qweqwe-e14111-d1e144">
+      ¶ Re 
+      <lb ed="#P" n="15"/>uerendi patres ma 
+      <lb ed="#P" n="16"/>gistri et domini 
+      carissi<lb ed="#P" n="17" break="no"/>mi saepe et multum hoc mecum 
+      cogita<lb ed="#P" n="18" break="no"/>ui quid nam expedientius esset / quod 
+      <lb ed="#P" n="19"/>ve michi foret vtilius / vel sacre 
+      doctri<lb ed="#P" n="20" break="no"/>ne / diuine videlicet scripture laubes 
+      <lb ed="#P" n="21"/>edicere: vel easdem sub silentii pace 
+      <lb ed="#P" n="22"/>transire: Qua in te variis factus 
+      agi<lb ed="#P" n="23" break="no"/>tationibus tumulentus varia michi 
+      <lb ed="#P" n="24"/>superest agitatio sed perplexa Nam 
+      <lb ed="#P" n="25"/>diuersis et aduersis perpelxitatis 
+      fu<lb ed="#P" n="26" break="no"/>niculis hinande contentiose protractus: 
+      <lb ed="#P" n="27"/>nunc loqui prohibeor / nunc tacere non 
+      <lb ed="#P" n="28"/>possum
+    </p>
+            <p xml:id="qweqwe-e14111-d1e178">
+      ¶ Loqui enim prohibet laudam 
+      <lb ed="#P" n="29"/>tis demeritum quo me indignum repe 
+      <lb ed="#P" n="30"/>rio verbo laudis / quia non est speciosa 
+      <lb ed="#P" n="31"/>laus in ore peccatoris.  Ecci. 15o. et ut 
+      <lb ed="#P" n="32"/>venerabilis verba aalani sequar. 
+      <lb ed="#P" n="33"/>Nec mirti praesunt lauris oleast olivis 
+      <lb ed="#P" n="34"/>Nec saliunca rosis. vil nec alga 
+      hia<lb ed="#P" n="35" break="no"/>cinctis prasertur. Gemmis ve lutum 
+      vio<lb ed="#P" n="36" break="no"/>lis ve cicuta. Nec ouis a capra 
+      men<lb ed="#P" n="37" break="no"/>dicat velleris usum. Nec fumidus 
+      <lb ed="#P" n="38"/>torens a riuo postulat undam Nec 
+      <lb ed="#P" n="39"/>solet a dauo narcisus querere formam 
+      <!--10.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>Nec addit lucem candele flamma diei 
+      <lb ed="#P" n="41"/>Et ieo loqui prohibeor
+    </p>
+            <p xml:id="qweqwe-e14111-d1e213">
+      ¶ Sed 
+      ta<lb ed="#P" n="42" break="no"/>cere dissuadet laudis debitum quo me 
+      <lb ed="#P" n="43"/>totum sentio enarrandis sacrae 
+      doctri<lb ed="#P" n="44" break="no"/>ne preconiis obligatum / de quibus 
+      <lb ed="#P" n="45"/>magis ut puto veniam merear si 
+      pau<lb ed="#P" n="46" break="no"/>ca dixero (cum plura non possim) quam si  
+      <lb ed="#P" n="47"/>taceam omnia / cum debeam vniuersa. et 
+      <lb ed="#P" n="48"/>ideo. tacere non possum / ymmo cogor 
+      <lb ed="#P" n="49"/>in admirative questionis prorumpere 
+      ver<lb ed="#P" n="50" break="no"/>ba dicens Quenam doctrina haec 
+      no<lb ed="#P" n="51" break="no"/>va: Cum vero mee intelligentie detri 
+      <lb ed="#P" n="52"/>menta considero: cum animi mei 
+      cala<lb ed="#P" n="53" break="no"/>mites colligo. qui peccator sum 
+      leui<lb ed="#P" n="54" break="no"/>oris scientie / et conscientie grauioris / qui 
+      <lb ed="#P" n="55"/>stultissimus sum virorum / sapientia 
+      ho<lb ed="#P" n="56" break="no"/>minum no est mecum non didici 
+      sapien<lb ed="#P" n="57" break="no"/>tiam nec noui scientiam sanctorum. Prou. 
+      <lb ed="#P" n="58"/>xxxo. Certe sit elinguis lingua / me 
+      <lb ed="#P" n="59"/>moria immenior / insensibilis sensu et 
+      <lb ed="#P" n="60"/>de ineffabilibus sacre doctrine 
+      laudi<lb ed="#P" n="61" break="no"/>bus / de quibus eciam sancti cum timore 
+      <lb ed="#P" n="62"/>loquuntur et tremore / loqui nimium  
+      <lb ed="#P" n="63"/>pertimesco / ideoque timor et tremor 
+      ve<lb ed="#P" n="64" break="no"/>nerunt super me. in psalmo. quare 
+      lo<lb ed="#P" n="65" break="no"/>qui prohibeor. Sed si diuitius taceo 
+      <lb ed="#P" n="66"/>de ingratitudine redarguar / quia iux 
+      <lb ed="#P" n="67"/>ta moralium dogma philosophorum 
+      <lb ed="#P" n="68"/>eam laudare teneor que me / si non stet  
+      <lb ed="#P" n="69"/>per me / suis ditauit beneficiis / beauit  
+      <lb ed="#P" n="70"/>muneribus et documentis salutaribus 
+      <lb ed="#P" n="71"/>erudiuit Quare tacere non possum 
+      <lb ed="#P" n="72"/>ymmo cogor in admiratiue questionis  
+      <lb ed="#P" n="73"/>prorumpere verba dicens Quenam 
+      doc<lb ed="#P" n="74" break="no"/>trina hec noua: dum autem ad 
+      sacra<lb ed="#P" n="75" break="no"/>tissime doctrine huius laudem tota labo 
+      <lb ed="#P" n="76"/>rat intentio: dum tota concurrit affectio /  
+      <lb ed="#P" n="77"/>tam excellentis dulcedinis copiam 
+      ef<lb ed="#P" n="78" break="no"/>fusucra voluntas in cogitatione non pro 
+      <!--11.xml-->
+      <pb ed="#P" n="1-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ficit: sed et lingua pene deficit in 
+      ser<lb ed="#P" n="2" break="no"/>mone. Et vt quidam eloquens ait. 
+      <lb ed="#P" n="3"/>dum sibi verba tero laudis: plus 
+      conte<lb ed="#P" n="4" break="no"/>ro laudem Quamobrem erubesco dicere 
+      <lb ed="#P" n="5"/>vel narrare inepte cogitationis mee 
+      <lb ed="#P" n="6"/>et temulentas fantasie proprie 
+      coniec<lb ed="#P" n="7" break="no"/>turas / demissoque capite veritus sum 
+      <lb ed="#P" n="8"/>quid de tanta re sentiam indicare / 
+      con<lb ed="#P" n="9" break="no"/>sulente michi sapientissimo 
+      salomo<lb ed="#P" n="10" break="no"/>ne Altiora te ne quesieris. ecci. 3o. Id 
+      <lb ed="#P" n="11"/>circo loqui prohibeor. Sed dum consolari 
+      <lb ed="#P" n="12"/>cuperem inscientiam meam silentione: 
+      <lb ed="#P" n="13"/>et ignorantiam meam tacendo compescere 
+      <lb ed="#P" n="14"/>(quam ipse dum loquor accusare 
+      compel<lb ed="#P" n="15" break="no"/>lor) instat ex aduerso conscientia 
+      propri<lb ed="#P" n="16" break="no"/>a que laudis debitum recognoscens 
+      <lb ed="#P" n="17"/>instanter instantius instantissime petit 
+      <lb ed="#P" n="18"/>ipsum ad quod teneor persolui 
+      tribu<lb ed="#P" n="19" break="no"/>tum Idcirco tacere non possum ymmo 
+      <lb ed="#P" n="20"/>cogor in admiratiue questionis 
+      prorum<lb ed="#P" n="21" break="no"/>pere verba dicens Quenam doctrina 
+      <lb ed="#P" n="22"/>haec noua: Si ipsa ergo huius gloriose 
+      prae<lb ed="#P" n="23" break="no"/>conia doctrine de intellectus mei vena 
+      <lb ed="#P" n="24"/>paupere fluuium exigunt locupletem / 
+      ig<lb ed="#P" n="25" break="no"/>narus ego et elinguis incipiam 
+      bal<lb ed="#P" n="26" break="no"/>butire. ecce verecundia signat ora 
+      silen<lb ed="#P" n="27" break="no"/>tio. voluntatem cohibet / ymaginationem 
+      <lb ed="#P" n="28"/>grauat / dum quod nescit homo / quod 
+      mira<lb ed="#P" n="29" break="no"/>tur angelus / inscie promit imperitus 
+      <lb ed="#P" n="30"/>et loquitur impudenter ignarus Igitur 
+      <lb ed="#P" n="31"/>loqui prohibeor. Sed de illius misercordia 
+      lo<lb ed="#P" n="32" break="no"/>quendi sumens audaciam qui mutorum 
+      la<lb ed="#P" n="33" break="no"/>bia reserat et linguas infantium facit 
+      di<lb ed="#P" n="34" break="no"/>sertas. sap. 4o vt quod debeo tributi 
+      <lb ed="#P" n="35"/>huius sacre doctrine preconiis. quamuis 
+      sol<lb ed="#P" n="36" break="no"/>uendo non sum sufficiens: in eius tamen id quod 
+      <lb ed="#P" n="37"/>potero commendatione persoluam. 
+      Spira<lb ed="#P" n="38" break="no"/>bit animus meus deuotionis affectum / 
+      <lb ed="#P" n="39"/>eructabit cor meum verbum bonum et ve¬ 
+      <!--11.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>lut calamus scribe laudibus eius 
+      offici<lb ed="#P" n="41" break="no"/>osus assistam. igitur tacere non possum 
+      <lb ed="#P" n="42"/>ymmo cogor in admiratiue questionis 
+      <lb ed="#P" n="43"/>prorumpere verba dicens. Quenam 
+      doctri<lb ed="#P" n="44" break="no"/>na haec noua: Que fuit questio a 
+      princi<lb ed="#P" n="45" break="no"/>pio proposita vestris reuerentiis sepe 
+      re<lb ed="#P" n="46" break="no"/>petita Ad cuius questionis solutionem 
+      <lb ed="#P" n="47"/>me dui quidem cogitantem sed nichil 
+      <lb ed="#P" n="48"/>proficere valentem ratio ipsa in hanc 
+      potis<lb ed="#P" n="49" break="no"/>simum sententiam ducit: vt cum ad soluendam 
+      <lb ed="#P" n="50"/>tam arduam questionem minime sufficiam 
+      <lb ed="#P" n="51"/>aliorum consulam facultatem Considero 
+      <lb ed="#P" n="52"/>igitur quod inter plurimas et quasi 
+      inum<lb ed="#P" n="53" break="no"/>merabiles questiones quatuor sunt 
+      <lb ed="#P" n="54"/>precipua questionum genera in 
+      diuer<lb ed="#P" n="55" break="no"/>sis scolis et doctoribus variis perquirenda 
+      <lb ed="#P" n="56"/>Nam primo quedam sunt questiones subtiles 
+      <lb ed="#P" n="57"/>et studiose. 2o quaedam sunt questiones 
+      diffici<lb ed="#P" n="58" break="no"/>les et curiose. 3o quaedam sunt questiones 
+      ciui<lb ed="#P" n="59" break="no"/>les contentiose. 4o quaedam sunt questiones 
+      vti<lb ed="#P" n="60" break="no"/>les et virtuose. Primum questionum 
+      ge<lb ed="#P" n="61" break="no"/>nus solet disputari in scola theorica 
+      <lb ed="#P" n="62"/>physicorum. 2m questionum genus solet 
+      perscru<lb ed="#P" n="63" break="no"/>tari in scola fantastica mathematicorum. 
+      <lb ed="#P" n="64"/>3m questionum genus solet disceptari 
+      in<lb ed="#P" n="65" break="no"/>scola politica iuris peritoum. 4m 
+      questio<lb ed="#P" n="66" break="no"/>num genus solet pertractari in scola 
+      catho<lb ed="#P" n="67" break="no"/>lica theologorum
+    </p>
+            <p xml:id="qweqwe-e14111-d1e452">
+      ¶ Ad primum questionum 
+      <lb ed="#P" n="68"/>genus pertinet illud iob xxvi. Quis 
+      ex<lb ed="#P" n="69" break="no"/>tendit aqualonem super vacuum et appendit 
+      ter<lb ed="#P" n="70" break="no"/>ram super nichilum: Quis ligat aquas 
+      in<lb ed="#P" n="71" break="no"/>nubibus suis vt non erumpat pariter deorsum: 
+      <lb ed="#P" n="72"/>Quis terminum circumdedit aquis vsque dum 
+      <lb ed="#P" n="73"/>finiantur lux et tenebre: Et illud prov. xxx. 
+      <lb ed="#P" n="74"/>Quis colligauit aquas in vestimento: 
+      <lb ed="#P" n="75"/>Quis suscitauit omnes terminos terre: 
+      <lb ed="#P" n="76"/>Tales enim questiones subtiles et 
+      studi<lb ed="#P" n="77" break="no"/>ose solent disputari in scola theorica 
+      <lb ed="#P" n="78"/>philosophorum
+    </p>
+            <p xml:id="qweqwe-e14111-d1e478">
+      ¶ Ad 2m questionum genus pertinet 
+      <!--12.xml-->
+      <pb ed="#P" n="2-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>illud eccli. 1o. harenam maris et pluuie 
+      <lb ed="#P" n="2"/>guttas / et dies seculi quis 
+      dinume<lb ed="#P" n="3" break="no"/>rate: Altitudinem celi et latitudinem 
+      <lb ed="#P" n="4"/>terre et profundum abyssus quis dimensus 
+      <lb ed="#P" n="5"/>est: Et illud senece Licet nescias que 
+      <lb ed="#P" n="6"/>rartio occeanum diffundat / quid sit quod 
+      ge<lb ed="#P" n="7" break="no"/>mellorum conceptum separet partum 
+      iun<lb ed="#P" n="8" break="no"/>gat. Cur simul natis fata diuersa 
+      <lb ed="#P" n="9"/>sint non multum nocebit tibi transire quod 
+      <lb ed="#P" n="10"/>nec licet scire nec prodest. Tales enim 
+      <lb ed="#P" n="11"/>questiones difficiles curiose solent 
+      per<lb ed="#P" n="12" break="no"/>scrutari in scola fantastica 
+      mathematico<lb ed="#P" n="13" break="no"/>rum
+    </p>
+            <p xml:id="qweqwe-e14111-d1e515">
+      ¶ Ad 3m questionum genus pertium 
+      <lb ed="#P" n="14"/>illud luc. 22o Facta est contentio inter eos 
+      <lb ed="#P" n="15"/>quis eorum videretur esse maior Et 
+      il<lb ed="#P" n="16" break="no"/>lud exo. 2o Quis constituit te principem 
+      <lb ed="#P" n="17"/>aut iudicem super nos: Tales enim 
+      <lb ed="#P" n="18"/>questiones ciuiles contentiose solent 
+      dis<lb ed="#P" n="19" break="no"/>ceptari in scola politica iurisperitorum 
+      </p>
+            <p xml:id="qweqwe-e14111-d1e531">
+               <lb ed="#P" n="20"/>¶ Ad 4m questionum genus pertinet illud 
+      <lb ed="#P" n="21"/>iob xiiiio Quis potest facere mudum de 
+      in<lb ed="#P" n="22" break="no"/>mundo conceptum semine: Et illud praedicate 
+      <lb ed="#P" n="23"/>Quis ascendet in montem domini aut quas 
+      <lb ed="#P" n="24"/>stabit in loco sancto eius: Tales enim 
+      questi<lb ed="#P" n="25" break="no"/>ones vtiles et virtuose solent pertracta 
+      <lb ed="#P" n="26"/>ri in scola catholica theologoum 
+      Considera<lb ed="#P" n="27" break="no"/>ta igitur praemissa questionum 
+      quadripha<lb ed="#P" n="28" break="no"/>ria serie et scolarum varietate 
+      quadrupli<lb ed="#P" n="29" break="no"/>ci / michi visum est expedire pro nostre 
+      <lb ed="#P" n="30"/>questionis solutione singulas adire 
+      sco<lb ed="#P" n="31" break="no"/>las / et doctores consulere singularum ut 
+      <lb ed="#P" n="32"/>quod in vna nequit: in alia saltem 
+      inueni<lb ed="#P" n="33" break="no"/>ri valeat Sic enim quod vbique quaeritur alicui 
+      <lb ed="#P" n="34"/>bi plerumque reperitur / iuxta verbum 
+      ve<lb ed="#P" n="35" break="no"/>ritatis dicentis. Querite et inuenietis. 
+      <lb ed="#P" n="36"/>Math. 7o Vado igitur et per ordinem 
+      <lb ed="#P" n="37"/>ad singulas discurro scolas. Et primo 
+      <lb ed="#P" n="38"/>ad scolam philosophorum in qua studiose 
+      disputan<lb ed="#P" n="39" break="no"/>tur questiones subtiles et theorice. 2o 
+      <!--12.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>mathematicorum in qua curiose 
+      perscru<lb ed="#P" n="41" break="no"/>tantur questiones difficiles et 
+      fantasti<lb ed="#P" n="42" break="no"/>ce. 3o ad scolam iurisperitorum in qua 
+      conten<lb ed="#P" n="43" break="no"/>tiose disceptantur questiones ciuiles et 
+      po<lb ed="#P" n="44" break="no"/>litice. 4o ad scolam theologorum in qua 
+      vir<lb ed="#P" n="45" break="no"/>tuose pertractantur questiones vtiles 
+      <lb ed="#P" n="46"/>et catholice. 1o ergo venio ad scolam 
+      <lb ed="#P" n="47"/>philosophorum in qua studiose disputantur 
+      ques<lb ed="#P" n="48" break="no"/>tiones subtiles et theorice et ibi nostram 
+      <lb ed="#P" n="49"/>propono questionem interrogans ab eis 
+      <lb ed="#P" n="50"/>de lege christi euangelica Quenam 
+      doctri<lb ed="#P" n="51" break="no"/>na haec noua In primo vero huius scole 
+      <lb ed="#P" n="52"/>ingressu sermocinalium scientiarum 
+      gramati<lb ed="#P" n="53" break="no"/>ce videlicet et logice / rethorice et 
+      poeti<lb ed="#P" n="54" break="no"/>ce artis doctores iuenio. Qui omnes 
+      <lb ed="#P" n="55"/>iuxta sue facultatem doctrine in aliquid 
+      <lb ed="#P" n="56"/>offerunt. Alii gramaticalia prisciani 
+      ru<lb ed="#P" n="57" break="no"/>dimenta Alii logicalia aristotelis 
+      argu<lb ed="#P" n="58" break="no"/>menta Alii rethorice tullii 
+      blandimen<lb ed="#P" n="59" break="no"/>ta Alii poeticam integumenta virgilii 
+      <lb ed="#P" n="60"/>nec solum ista: quin ymo ouidii praesentant 
+      <lb ed="#P" n="61"/>fabulas / fulgentii mithologias / odas 
+      <lb ed="#P" n="62"/>oracii / ormestas orosii iuuenalis 
+      sati<lb ed="#P" n="63" break="no"/>tras / senece tragedias / comedias 
+      theren<lb ed="#P" n="64" break="no"/>tii / inuectiuas salustii / sydonui epistulas 
+      <lb ed="#P" n="65"/>cassyodori formulas / declamationes 
+      <lb ed="#P" n="66"/>quintiliani / decades titi / liuii / valerii 
+      e<lb ed="#P" n="67" break="no"/>phitomata / marchialis epygrammata 
+      <lb ed="#P" n="68"/>centones homeri / saturnalia 
+      macro<lb ed="#P" n="69" break="no"/>bii et generaliter singula quae vel suauis 
+      <lb ed="#P" n="70"/>liram rethorice vel grauis poetrie musam 
+      <lb ed="#P" n="71"/>resonant. Sed cum praemissi doctores in hiis 
+      <lb ed="#P" n="72"/>omnibus nichil prorsus doceant quod ad 
+      proposi<lb ed="#P" n="73" break="no"/>tam satisfaciat questionem: ipsi tamen mihi iam 
+      <lb ed="#P" n="74"/>pene de solutione questionis desperati / in 
+      <lb ed="#P" n="75"/>quirendi laudant propositum laboris 
+      diligen<lb ed="#P" n="76" break="no"/>tiam recommendant et diligenter inquirenti specie 
+      <lb ed="#P" n="77"/>inueniendi confirmant Confortat me siquidem 
+      <lb ed="#P" n="78"/>illud commune dictum boecii de disciplina 
+      <!--13.xml-->
+      <pb ed="#P" n="2-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>scolarium cuiuslibet operis obtusitas 
+      la<lb ed="#P" n="2" break="no"/>borum diligentia permolliter Confortat 
+      <lb ed="#P" n="3"/>eciam me illud dictum valerii in epistula 
+      <lb ed="#P" n="4"/>ad ruphinum Ad summa quaeque fastigia 
+      <lb ed="#P" n="5"/>non nisi per salebras euadimus nec est 
+      vi<lb ed="#P" n="6" break="no"/>a plana que ducit ad gaudia plena 
+      <lb ed="#P" n="7"/>Cuius rei ponit exemplum. Audiuit 
+      in<lb ed="#P" n="8" break="no"/>quit iason quam per mare adhuc in tactum 
+      <lb ed="#P" n="9"/>ratibus et remis et per tauros 
+      sulphu<lb ed="#P" n="10" break="no"/>reos ac per toxicati serpentis vigilias 
+      <lb ed="#P" n="11"/>sibi viandum esset ad aureum vellus et 
+      sa<lb ed="#P" n="12" break="no"/>non consilio licet non suaui usus / abiit 
+      <lb ed="#P" n="13"/>et rediit et optabilem thesaurum 
+      retu<lb ed="#P" n="14" break="no"/>lit. Sic absintium veritatis acceptat 
+      <lb ed="#P" n="15"/>morose mentis humilitas / fecundat 
+      of<lb ed="#P" n="16" break="no"/>ficiosa sedulitas / et in fructum producit per se 
+      <lb ed="#P" n="17"/>uerantie vtilitas / vt dura principia dulci 
+      fi<lb ed="#P" n="18" break="no"/>nem munerentur Sic arctus callis ad ampla 
+      <lb ed="#P" n="19"/>ducit palacia. sic angustus tramens ad 
+      <lb ed="#P" n="20"/>terram viuentium Hec ille. Confortat me 
+      <lb ed="#P" n="21"/>insuper illud dictum vergilii in eneyde 
+      La<lb ed="#P" n="22" break="no"/>bor improbus omnia vincit. Confortat 
+      <lb ed="#P" n="23"/>me denique illud dictum architrenii 
+      no<lb ed="#P" n="24" break="no"/>uelli poete Velificatur athos dubio 
+      <lb ed="#P" n="25"/>mare ponte ligatur. Remus arat 
+      col<lb ed="#P" n="26" break="no"/>les / pedibus substernitur unda. 
+      Pupe<lb ed="#P" n="27" break="no"/>meatur humus pelagi tethis exuit 
+      v<lb ed="#P" n="28" break="no"/>sum Salmoneus fulmen iaculatur 
+      deda<lb ed="#P" n="29" break="no"/>lus alas Induit ingenii furor instat 
+      <lb ed="#P" n="30"/>et inuia praeceps. Rumpit et artifici cedit 
+      <lb ed="#P" n="31"/>natura labori Ex hiis namque dictis 
+      vi<lb ed="#P" n="32" break="no"/>res animi colligo. spem mentis erigo. vt 
+      <lb ed="#P" n="33"/>ad proposite quaestionis apertionem procedam 
+      vl<lb ed="#P" n="34" break="no"/>terius inuestigans a profundioribus 
+      natura<lb ed="#P" n="35" break="no"/>lis et moralis philosophie doctoribus quid nam 
+      <lb ed="#P" n="36"/>de proposita sapiant questione. ipsi vero sola 
+      <lb ed="#P" n="37"/>excusatione contenti talem responsionem praetendunt 
+      <lb ed="#P" n="38"/>Scimus inquiunt elementorum 
+      proportio<lb ed="#P" n="39" break="no"/>nes / elementatorum conditiones / vaporum 
+      <!--13.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>impressiones / mineralium mixtiones. 
+      <lb ed="#P" n="41"/>Scimus vires herbarum / virtutes 
+      gemma<lb ed="#P" n="42" break="no"/>rum / mores animalium / origines animarum 
+      Sci<lb ed="#P" n="43" break="no"/>mus complexionum distantias / humorum 
+      <lb ed="#P" n="44"/>repugnantias / sanitatum armonias / 
+      e<lb ed="#P" n="45" break="no"/>gritudinum distrasias Scimus 
+      varieta<lb ed="#P" n="46" break="no"/>tes actuum / causalitates habituum / 
+      extre<lb ed="#P" n="47" break="no"/>mitates viciorum et medientates 
+      virtu<lb ed="#P" n="48" break="no"/>tum Et vt ad vnum dicamus Scimus 
+      <lb ed="#P" n="49"/>de natura quicquid humana potest ratio 
+      <lb ed="#P" n="50"/>naturaliter perscrutari. sed nimirum de 
+      e<lb ed="#P" n="51" break="no"/>a quam propositionis questione nichil vtique 
+      <lb ed="#P" n="52"/>scimus / quia in eius solutione natura 
+      si<lb ed="#P" n="53" break="no"/>let. ei canones succumbunt / et fides 
+      so<lb ed="#P" n="54" break="no"/>la de naturali ratione triumphat Ad hanc 
+      <lb ed="#P" n="55"/>itaque vocem / primam ex eo scolam et 
+      tran<lb ed="#P" n="56" break="no"/>seo ad secundam Secundo ergo 
+      veni<lb ed="#P" n="57" break="no"/>o ad scolam mathematicorum / in 
+      <lb ed="#P" n="58"/>qua curiose perscrutantur questiones 
+      <lb ed="#P" n="59"/>difficiles et fantastice / et ibi nostram 
+      <lb ed="#P" n="60"/>propono questionem interrogans ab 
+      e<lb ed="#P" n="61" break="no"/>is de lege christi euangelica Quenam 
+      doc<lb ed="#P" n="62" break="no"/>trina hec noua In primo vero huius 
+      <lb ed="#P" n="63"/>scole ingressu: quosdam reperio sibi 
+      <lb ed="#P" n="64"/>nomen matheses usurpantes indebite / 
+      <lb ed="#P" n="65"/>ex quorum infamia tota fere 
+      mathe<lb ed="#P" n="66" break="no"/>maticorum scola infamis redditur et 
+      <lb ed="#P" n="67"/>suspecta. Hii sunt quae teste beato 
+      augus<lb ed="#P" n="68" break="no"/>tino in libro de natura demonum. a 
+      ter<lb ed="#P" n="69" break="no"/>ra geomantici / ab aere aeromantici / ab 
+      <lb ed="#P" n="70"/>igne prpromantici / ab aris ydolorum 
+      <lb ed="#P" n="71"/>arioli / a condesinatione natalium 
+      ge<lb ed="#P" n="72" break="no"/>netlyaci / ab inspectione horarum 
+      a<lb ed="#P" n="73" break="no"/>cuspices / et a volatibus aut vocibus 
+      <lb ed="#P" n="74"/>auium / augures nuncupantur. Ab 
+      <lb ed="#P" n="75"/>hiis itaque pseudo mathematicis seu 
+      <lb ed="#P" n="76"/>potius maleficis. nichil interrogo 
+      <lb ed="#P" n="77"/>de proposita questione / hoc sacra 
+      <lb ed="#P" n="78"/>prohibente scriptura Non declines 
+      <!--14.xml-->
+      <pb ed="#P" n="3-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>inquit ad magos nec ab ariolis 
+      ali<lb ed="#P" n="2" break="no"/>quid scisciteris. leuiter. xx. Sed ad 
+      ve<lb ed="#P" n="3" break="no"/>ros mathematicos transeo qui in 
+      aris<lb ed="#P" n="4" break="no"/>metrica numerorum pugnas / in musica 
+      <lb ed="#P" n="5"/>sonorum siniuigias / in geometria 
+      quan<lb ed="#P" n="6" break="no"/>titatum mensuras / et in astrologia 
+      celo<lb ed="#P" n="7" break="no"/>rum influentias scientifice perscrutantur. 
+      <lb ed="#P" n="8"/>inter quos tenet pictagoras calculum / 
+      <lb ed="#P" n="9"/>orpheus plectrum / esculaxius baculum / 
+      eu<lb ed="#P" n="10" break="no"/>fratres horoscopnum / archimedes 
+      radi<lb ed="#P" n="11" break="no"/>um / perdites circinum / campanus 
+      perpendicu<lb ed="#P" n="12" break="no"/>lum / protholomeus astrolabium. Nec 
+      inues<lb ed="#P" n="13" break="no"/>tigare desistit thales tempora / athlas 
+      sy<lb ed="#P" n="14" break="no"/>dera / zeno pondera / crisippus numeros 
+      <lb ed="#P" n="15"/>euclides mensuras / albumazar 
+      influ<lb ed="#P" n="16" break="no"/>entias. Ab hiis itaque mathematicis 
+      <lb ed="#P" n="17"/>nostre peto solutionem questionis / et ecce 
+      ho<lb ed="#P" n="18" break="no"/>rum aliqua dum quaestionem istam soluere temptant: 
+      <lb ed="#P" n="19"/>ita desipiunt vt christi doctrinam / christi 
+      vi<lb ed="#P" n="20" break="no"/>tam / christi opera / christi miracula / causis 
+      na<lb ed="#P" n="21" break="no"/>turalibus et celestibus influentiis audeant 
+      <lb ed="#P" n="22"/>deputare Sic enim ausus est ille fantasticus 
+      al<lb ed="#P" n="23" break="no"/>bumazar tractatus primi de coniunctionibus differentia 
+      <lb ed="#P" n="24"/>3a Sic et ille machometicus auicena 
+      <lb ed="#P" n="25"/>10. methaphysice sue / quorum tam fatuamquam 
+      ob<lb ed="#P" n="26" break="no"/>scuram et fastuosam praesumptionem apostolus 
+      <lb ed="#P" n="27"/>ipse reprehendit / obscuratum est inquit 
+      <lb ed="#P" n="28"/>insipiens cor eorum / dicentes enim se esse 
+      <lb ed="#P" n="29"/>sapientes stulti facti sunt Ro. 1 Non 
+      <lb ed="#P" n="30"/>sic deuoti mathemathici tres illi 
+      ma<lb ed="#P" n="31" break="no"/>gi orientales praeclari quibus vt Matt 2o 
+      <lb ed="#P" n="32"/>legitur christum natum stella mirabilis 
+      <lb ed="#P" n="33"/>nunciauit / illa scilicet de qua meminit 
+      calci<lb ed="#P" n="34" break="no"/>dius super iio thimei platonis / post 
+      <lb ed="#P" n="35"/>cuius aperitionem teste augustino vbi 
+      su<lb ed="#P" n="36" break="no"/>pra / nativitatem alicuius e celo 
+      interpreta<lb ed="#P" n="37" break="no"/>ri non licuit. non sic inquam non sic praesumunt 
+      <lb ed="#P" n="38"/>hii deuoti mathematici. sed in proposite 
+      <lb ed="#P" n="39"/>questionis solutione imperfectum suum humi¬ 
+      <!--14.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>liter recognoscunt. Nescit inquiunt 
+      a<lb ed="#P" n="41" break="no"/>cribologia mathematica huius 
+      questi<lb ed="#P" n="42" break="no"/>onis soluere nodum. Nescit quippe 
+      diui<lb ed="#P" n="43" break="no"/>num aperire secretum. nam cum deo 
+      clauden<lb ed="#P" n="44" break="no"/>te nemo aperiat. sane frustra sudatur 
+      <lb ed="#P" n="45"/>diuinitus obserata / humanitus 
+      rescra<lb ed="#P" n="46" break="no"/>re Ad hanc itaque vocem secundam ex eo 
+      <lb ed="#P" n="47"/>scolam et transeo ad terciam. 3o ergo 
+      ve<lb ed="#P" n="48" break="no"/>nio ad scolam iurisperitorum in qua 
+      conten<lb ed="#P" n="49" break="no"/>tiose disceptantur questiones ciuiles et 
+      po<lb ed="#P" n="50" break="no"/>litice. Et ibi nostram propono questionem 
+      in<lb ed="#P" n="51" break="no"/>terrogans ab eis de lege christi 
+      euangeli<lb ed="#P" n="52" break="no"/>ca. Quenam doctrina haec noua. In primo 
+      <lb ed="#P" n="53"/>vero huius scole ingressu ciuiles iuris 
+      docto<lb ed="#P" n="54" break="no"/>res inuenio Qui imperatorum leges / 
+      ce<lb ed="#P" n="55" break="no"/>saris edicta / tanta veneratione suscipiunt 
+      <lb ed="#P" n="56"/>tanto honore preferunt: vt pro ipsis 
+      <lb ed="#P" n="57"/>venerandis aliqui plerumque celestis 
+      im<lb ed="#P" n="58" break="no"/>peratoris leges contempnat. pro ipsis 
+      de<lb ed="#P" n="59" break="no"/>fendendis / edictis summi cesaris contradicant 
+      <lb ed="#P" n="60"/>Sed reperio iterum in hac scola quosdam iuris 
+      <lb ed="#P" n="61"/>canonici professores qui eciam suas 
+      decre<lb ed="#P" n="62" break="no"/>tales epistulas quasi diuinas scripturas 
+      acci<lb ed="#P" n="63" break="no"/>piunt et eas taliter venerantur vt propter 
+      <lb ed="#P" n="64"/>hoc eorum aliqui plerumque in diuinarum 
+      <lb ed="#P" n="65"/>prorumpant blasphemiam scripturarum 
+      Ta<lb ed="#P" n="66" break="no"/>les enim reprehendit magnus ille vtriusque iuris 
+      <lb ed="#P" n="67"/>doctor dicens gratianus sui volumis d. 9 
+      ver<lb ed="#P" n="68" break="no"/>ba recipiens augustinus epistola viiia ad iheroum 
+      <lb ed="#P" n="69"/>Ego inquit solis eorum librorum 
+      scriptori<lb ed="#P" n="70" break="no"/>bus qui iam canonici appellantur / didici hunc 
+      <lb ed="#P" n="71"/>morem honoremque referre vt nullum eorum 
+      <lb ed="#P" n="72"/>scribendo errasse audeam credere 
+      Appel<lb ed="#P" n="73" break="no"/>latione canonicorum librorum solos 
+      comprehen<lb ed="#P" n="74" break="no"/>dens libros diuinarum scripturarum et non 
+      <lb ed="#P" n="75"/>iurium humanorum in quibus eodem 
+      au<lb ed="#P" n="76" break="no"/>gustino teste libro 2o ad vicentium negare 
+      <lb ed="#P" n="77"/>non possumus nec debemus multa esse que 
+      <lb ed="#P" n="78"/>possunt iusto iudicio et nulla temeritate 
+      <!--15.xml-->
+      <pb ed="#P" n="3-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>culpari / / Ipsorum igitur qui veln 
+      <lb ed="#P" n="2"/>ciuilis vel in canonici iuris scola aut 
+      <lb ed="#P" n="3"/>student aut docent bifariam diuisionem 
+      re<lb ed="#P" n="4" break="no"/>perio. nam quidem et multi prochdolor. 
+      li<lb ed="#P" n="5" break="no"/>guam prostituunt / questum querunt / equi 
+      <lb ed="#P" n="6"/>tatem soluunt / pace confundunt / sopitarum 
+      <lb ed="#P" n="7"/>bitium cineres suscitant / pactiones violant / 
+      <lb ed="#P" n="8"/>adulteria dissimulant / mpimonia 
+      dif<lb ed="#P" n="9" break="no"/>famant / luxuriantur in lacrimis 
+      vidu<lb ed="#P" n="10" break="no"/>arum / in fame pupillorum / in afflictione 
+      <lb ed="#P" n="11"/>simplicium / et in pauperum nuditate Nam 
+      <lb ed="#P" n="12"/>vt sydonii verbis vtar. hii sunt qui 
+      <lb ed="#P" n="13"/>causas protendunt adhibiti / impediunt 
+      <lb ed="#P" n="14"/>praetermissi / fastidiunt admoniti / 
+      obli<lb ed="#P" n="15" break="no"/>uiscuntur locupletati. hii sunt qui emunt 
+      <lb ed="#P" n="16"/>lites / vendunt intercessiones / iudicanda 
+      <lb ed="#P" n="17"/>dictant / dictata conuellunt / attrahunt 
+      li<lb ed="#P" n="18" break="no"/>tigaturos / protrahunt audiendos Quid 
+      <lb ed="#P" n="19"/>plura: Hii sunt qui dum in capturam 
+      pe<lb ed="#P" n="20" break="no"/>cunie / rethia tendunt. iura omnia interum 
+      <lb ed="#P" n="21"/>tunt / omnes leges interpretantur ad 
+      li<lb ed="#P" n="22" break="no"/>bitum. et pro sua voluntate nunc abdicant 
+      <lb ed="#P" n="23"/>nunc adinittunt / bene dicta deprauant / 
+      pru<lb ed="#P" n="24" break="no"/>denter allegata peruertunt / condempnat in 
+      <lb ed="#P" n="25"/>noxios / nocentes absoluunt / impios 
+      fo<lb ed="#P" n="26" break="no"/>uent / opprimunt innocentes Ab hiis ita 
+      <lb ed="#P" n="27"/>quod litigiosis causidicis / de questione 
+      proposi<lb ed="#P" n="28" break="no"/>ta nichil quaro / sed eorum consortia fugio / et 
+      <lb ed="#P" n="29"/>eorum condempno litigia / dicente michi 
+      a<lb ed="#P" n="30" break="no"/>postolo. Seruum domini non oportet 
+      liti<lb ed="#P" n="31" break="no"/>gare / sed mansuetum esse ad omnes. 2o ad 
+      <lb ed="#P" n="32"/>thimotheum 2o. Alii vero suntl et 
+      vti<lb ed="#P" n="33" break="no"/>nam multi qui in ipsa iurium scola stu 
+      <lb ed="#P" n="34"/>dent et docent non ad questum non ad 
+      im<lb ed="#P" n="35" break="no"/>quum iuris dispendium: sed ad inquisiti 
+      <lb ed="#P" n="36"/>onem veritatis et iudicii equitatem 
+      <lb ed="#P" n="37"/>hii sunt qui aduocantur pro pupillo et 
+      <lb ed="#P" n="38"/>vidua / pro vtilitate reipublice et ecclesie 
+      <lb ed="#P" n="39"/>libertate. quorum iudiciarius rigor / ad 
+      <!--15.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>uersus insontes vehementius excandescit 
+      <lb ed="#P" n="41"/>et circa simplices mansuescit. hii sunt 
+      <lb ed="#P" n="42"/>qui erigunt lapsos / fractos consolidant / 
+      <lb ed="#P" n="43"/>liberant seruos / pauperes ditant / vagos 
+      <lb ed="#P" n="44"/>congregat / reuocat oberrantes. hii sunt 
+      <lb ed="#P" n="45"/>apud quos admittitur clamor 
+      paupe<lb ed="#P" n="46" break="no"/>rum / erigitur dignitas ecclesiarum / per quos 
+      re<lb ed="#P" n="47" break="no"/>uelatur pauperum indigentia / firmatur 
+      <lb ed="#P" n="48"/>in eccliis libtas / pax in postolis / in 
+      ciui<lb ed="#P" n="49" break="no"/>tatibus quies. Ab hiis itaque tempto 
+      ali<lb ed="#P" n="50" break="no"/>quid audire de proposita questione. Sed 
+      <lb ed="#P" n="51"/>dum ipsi ad huius questionis solutionem 
+      per<lb ed="#P" n="52" break="no"/>uenire contendunt / vires eorum interiori 
+      o<lb ed="#P" n="53" break="no"/>culo caligante / scrutantes scrutationes 
+      <lb ed="#P" n="54"/>ex inani scrutinio deficiunt. et a 
+      tanta<lb ed="#P" n="55" break="no"/>victi sublimitatis excellentia / retrorsum 
+      <lb ed="#P" n="56"/>in terram abeunt prouoluti. ideoque 
+      peritio<lb ed="#P" n="57" break="no"/>res eorum de nostre questionis solutione 
+      humi<lb ed="#P" n="58" break="no"/>liter se excusant. Scimus inqunt quod 
+      diui<lb ed="#P" n="59" break="no"/>ne res perfectissime sunt / huani vero 
+      iu<lb ed="#P" n="60" break="no"/>ris conditio sper in infinitum decurrit / et 
+      ni<lb ed="#P" n="61" break="no"/>chil est in ea quod stare perpetuo possit C 
+      <lb ed="#P" n="62"/>de. ve. iu. enuclis 1. 2. D. sed quia. Cum 
+      <lb ed="#P" n="63"/>igitur humana iura ad scolam nostram 
+      <lb ed="#P" n="64"/>pertineat non diuina. sane proposite 
+      questi<lb ed="#P" n="65" break="no"/>onis solutio non ad iuridica spectat 
+      pe<lb ed="#P" n="66" break="no"/>ricia sed ad theologicam facultatem. nec 
+      no<lb ed="#P" n="67" break="no"/>bis licet falce nostram in messem mittere 
+      <lb ed="#P" n="68"/>alienam. xii. q.  D. hiis ita. Ad hac 
+      <lb ed="#P" n="69"/>itaque vocem / terciam ex eo scolam / et transeo 
+      <lb ed="#P" n="70"/>ad quartam et vltimam. Quarto ergo 
+      <lb ed="#P" n="71"/>venio ad scolam theologorum / in qua 
+      ver<lb ed="#P" n="72" break="no"/>tuo se pertractatur questiones vtiles et 
+      ca<lb ed="#P" n="73" break="no"/>tholice. et ibi nostram propono questionem / 
+      <lb ed="#P" n="74"/>interrogas ab eis de lege christi evanetia 
+      <lb ed="#P" n="75"/>Quenam doctrina hec noua: In primo 
+      <lb ed="#P" n="76"/>vero huius scole ingressu veteris legis 
+      <lb ed="#P" n="77"/>doctores inuenio secons pres priarchas 
+      <lb ed="#P" n="78"/>videlicet et prophetas Interrogo igitur 
+      <!--16.xml-->
+      <pb ed="#P" n="4-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>primo primum illum patrem adam qui 
+      <lb ed="#P" n="2"/>ad ymaginem dei factus et in peradiso 
+      po<lb ed="#P" n="3" break="no"/>situs diuina secreta creditur percepisse. 
+      <lb ed="#P" n="4"/>Sed respondet adam doctrinam hanc nouam sibi 
+      <lb ed="#P" n="5"/>maxima in parte esse ignotam Vnionem 
+      <lb ed="#P" n="6"/>inquit dei et hominis non intelligo. et quod 
+      <lb ed="#P" n="7"/>verbum caro fieri possit ignoro. quod quod 
+      ver<lb ed="#P" n="8" break="no"/>go concipiat et pariat non minus est a 
+      me<lb ed="#P" n="9" break="no"/>a intelligentia extraneum / quam a 
+      consuetu<lb ed="#P" n="10" break="no"/>dine alienum Nec enim eua mea aut 
+      con<lb ed="#P" n="11" break="no"/>cipere potuit nisi a me cognita. a 
+      pa<lb ed="#P" n="12" break="no"/>rere / nisi corrupta Vade inquit potius 
+      <lb ed="#P" n="13"/>ad noe virum iustum qui per archam in 
+      dilu<lb ed="#P" n="14" break="no"/>uio saluauit genus huanum. ge. 17o forte 
+      <lb ed="#P" n="15"/>ipse propositam questionem aperiet et signa 
+      <lb ed="#P" n="16"/>cula eius soluet Interrogo igitur nome 
+      <lb ed="#P" n="17"/>virum iustum. sed excusat se ecim / et dolabro 
+      <lb ed="#P" n="18"/>occupatus / promptior est ad fabricandum 
+      <lb ed="#P" n="19"/>quam ad docendum. nec ego inquit ipse hanc 
+      <lb ed="#P" n="20"/>questionem aperire / aut signacula eius soluere 
+      <lb ed="#P" n="21"/>sum ydoneus. vade potius ad abraham 
+      pa<lb ed="#P" n="22" break="no"/>trem multarum gentium / ad quem promissio 
+      <lb ed="#P" n="23"/>facta est / quia in semine tuo bendicentur omnes 
+      <lb ed="#P" n="24"/>gentes. ge. xii. Interrogo igitur abra 
+      <lb ed="#P" n="25"/>ham sed expauescit eciam ipse / et tante rei 
+      <lb ed="#P" n="26"/>nouitate percussus. noli inquit turbare 
+      <lb ed="#P" n="27"/>pegrinationem meam. egressus enim de 
+      ter<lb ed="#P" n="28" break="no"/>ra mea et de cognatione mea et de do 
+      <lb ed="#P" n="29"/>mo patris mei in minadis gregibus et 
+      <lb ed="#P" n="30"/>armentis in pascuis comitandis / in 
+      <lb ed="#P" n="31"/>fodiendis puteis ego valeo Sed quam 
+      <lb ed="#P" n="32"/>proposionis questionem soluere nequio. 
+      vade<lb ed="#P" n="33" break="no"/>potius ad moysen famulum dei. cui 
+      locu<lb ed="#P" n="34" break="no"/>tus est docens facie ad faciem. quasi homo ad 
+      prox<lb ed="#P" n="35" break="no"/>imum suum. exo. xxxiiio Interrogo 
+      igi<lb ed="#P" n="36" break="no"/>tur moysen / et ecce moyses e medio 
+      <lb ed="#P" n="37"/>consessum surgens velata facie et libris 
+      o<lb ed="#P" n="38" break="no"/>nustus / congere et siluam mandatorum lega 
+      <lb ed="#P" n="39"/>lium proponit / nec expontit. penthatheucum 
+      <!--16.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>suum sub cuius sarcina sudat / proicit in 
+      me<lb ed="#P" n="41" break="no"/>dium. inueniuntur ibi praecepta quaedam 
+      mo<lb ed="#P" n="42" break="no"/>ralia quedam cerimonialia / moralia 
+      <lb ed="#P" n="43"/>autem quamuis proficientia / non tamen 
+      sufficien<lb ed="#P" n="44" break="no"/>tia ad salutem. cerimonialia vero 
+      tan<lb ed="#P" n="45" break="no"/>tis obubrata figuris / tantis 
+      ymagi<lb ed="#P" n="46" break="no"/>nibus operta / vt non dica impleri sed nec 
+      <lb ed="#P" n="47"/>intelligi quidem possit Ibi cultellus 
+      pre<lb ed="#P" n="48" break="no"/>pucii / libellus repudii / oculorum et dentium 
+      <lb ed="#P" n="49"/>taliones / voluit ergo et reuoluit 
+      moy<lb ed="#P" n="50" break="no"/>ses / consumptoque frustra toto legendi 
+      <lb ed="#P" n="51"/>officio / latent eum huius doctrine miste 
+      <lb ed="#P" n="52"/>ria Erubescit itaque mopses et defectum 
+      <lb ed="#P" n="53"/>suum confitens ait. Velata facie ego sum / 
+      <lb ed="#P" n="54"/>perce queso pudori meo. et cum tabulis me 
+      <lb ed="#P" n="55"/>is lapideis / pilum meum lapiudem 
+      per<lb ed="#P" n="56" break="no"/>mitte docere. Vade potius ad dauid 
+      <lb ed="#P" n="57"/>quem inuenit domiens secundum cor suum. forte in 
+      cy<lb ed="#P" n="58" break="no"/>thara et psalterio eructabit tibi verbum 
+      <lb ed="#P" n="59"/>bonum. et aut ipse soluet questionis signa 
+      <lb ed="#P" n="60"/>cula / aut de stir pe ipsius surget qui 
+      sol<lb ed="#P" n="61" break="no"/>uet ea. Interrogo igitur dauid. sed 
+      <lb ed="#P" n="62"/>excusat se eciam dauid dicens Non sum 
+      <lb ed="#P" n="63"/>dignus ad tante questionis sublimitatem 
+      <lb ed="#P" n="64"/>assurgere Quoniam inquitates mee 
+      <lb ed="#P" n="65"/>supergresse sunt caput meum et sicut onus 
+      <lb ed="#P" n="66"/>gue guate sunt super me. psalmtio. xxxvii 
+      <lb ed="#P" n="67"/>Ideoque huius misteria questionis non 
+      mi<lb ed="#P" n="68" break="no"/>nus sunt obscura michi / quam tenebrosa 
+      <lb ed="#P" n="69"/>aqua in nubibus aeris Vade inquit 
+      po<lb ed="#P" n="70" break="no"/>tius et conueoca omnes simul prophetas ad 
+      <lb ed="#P" n="71"/>spectaculum istud / si forte reuelet eis 
+      <lb ed="#P" n="72"/>deus et aperiatur oculus intelligentie eorum. 
+      for<lb ed="#P" n="73" break="no"/>te quod non intelligunt singuli / intelligent 
+      <lb ed="#P" n="74"/>vniumrsi. Interorgo igitur simul omnes 
+      <lb ed="#P" n="75"/>prophstas. Conuenientibus vero prophiosophis in 
+      <lb ed="#P" n="76"/>vnum / et ad solutionem questionis laboram 
+      <lb ed="#P" n="77"/>tibus / cum singuli multa dicat et 
+      defici<lb ed="#P" n="78" break="no"/>at / surgit paulus qua eoplabori compatiens 
+      <!--17.xml-->
+      <pb ed="#P" n="4-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et eis manum silentium indicens alit. Sex 
+      <lb ed="#P" n="2"/>neminem ad perfectum adduxit Iusticie 
+      <lb ed="#P" n="3"/>aut dei per fidem ihesu christi in omnes qui 
+      <lb ed="#P" n="4"/>credunt in eum. ad heb. 7o Consonat eciam 
+      <lb ed="#P" n="5"/>petrus college suo paulo et voluentibus 
+      <lb ed="#P" n="6"/>atque reuoluentibus libros legis et 
+      prophe<lb ed="#P" n="7" break="no"/>tarum exclamat. Quid temptatis 
+      impo<lb ed="#P" n="8" break="no"/>nere iugum quod neque nos neque pres 
+      <lb ed="#P" n="9"/>nosti portare potuimus: Non sic inquit 
+      <lb ed="#P" n="10"/>sed per gratiam domini ihesu christi credimus 
+      sal<lb ed="#P" n="11" break="no"/>uari. actuum xro. Vera sunt inquit 
+      io<lb ed="#P" n="12" break="no"/>hanes quae petrus et paulus dicunt / 
+      quoni<lb ed="#P" n="13" break="no"/>am lex per moysen data est / gratia et 
+      <lb ed="#P" n="14"/>veritas per ilholcum christum facta est. io. primo 
+      <lb ed="#P" n="15"/>hiis itaque auditis manifeste 
+      perpen<lb ed="#P" n="16" break="no"/>do me frustra pro nostre questionis 
+      solu<lb ed="#P" n="17" break="no"/>tione interrogasse doctores theologos 
+      <lb ed="#P" n="18"/>atique legis moysaycem Quapropter 
+      <lb ed="#P" n="19"/>accedo ad doctores theologos 
+      nouen<lb ed="#P" n="20" break="no"/>legis euangelice et eis propono adimira 
+      <lb ed="#P" n="21"/>tiue questionis verba dicens Quenam 
+      doc<lb ed="#P" n="22" break="no"/>trina haec noua: quae fuit questio a 
+      principi<lb ed="#P" n="23" break="no"/>o proposita / vetris reuerentiis sepius 
+      re<lb ed="#P" n="24" break="no"/>petita Ad quam quidem questionem 
+      no<lb ed="#P" n="25" break="no"/>ue legis / doctores catholici sub 
+      conclu<lb ed="#P" n="26" break="no"/>sione respondent quadrumplici Prima est quod hoc est 
+      <lb ed="#P" n="27"/>doctrina profunde capacitatis / et 
+      subtili<lb ed="#P" n="28" break="no"/>tatis inaccessibilis. 2a est quod hec est 
+      doc<lb ed="#P" n="29" break="no"/>trina stupende sublimitatis et 
+      difficul<lb ed="#P" n="30" break="no"/>tatis imperscrutabilis. 3a est quod haec est 
+      doc<lb ed="#P" n="31" break="no"/>trina timende seueritatis et ciuilitatis 
+      <lb ed="#P" n="32"/>imperturbabilis. 4a est quod hec est doctrina 
+      <lb ed="#P" n="33"/>quarende felicitatis et vtilibitis incompabilis Vnde 
+      <lb ed="#P" n="34"/>apostolus paulus doctorum catholicorum 
+      exi<lb ed="#P" n="35" break="no"/>mius et ceteris audacior ad loquendum 
+      <lb ed="#P" n="36"/>praemissas 4odr conclusiones breuiter inuens 
+      <lb ed="#P" n="37"/>et pariter comprehendens de hac noua 
+      doc<lb ed="#P" n="38" break="no"/>trina alte exclamat dicens. C 
+      altitu<lb ed="#P" n="39" break="no"/>do diuiciarum sapientie et scine dei quod in 
+      <!--17.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="40"/>comprehensibilia sunt iudicia eius et 
+      inues<lb ed="#P" n="41" break="no"/>tigabiles vie eius. ro. xio Vbi animad 
+      <lb ed="#P" n="42"/>uerto doctorem hunc eximium correspondenter 
+      <lb ed="#P" n="43"/>ad praemifsa / 4o ode notare correlaria. ac si 
+      <lb ed="#P" n="44"/>aperte michi diceret / frustra quaesisti 
+      solu<lb ed="#P" n="45" break="no"/>tionem questionis proposite alibi quam in 
+      sco<lb ed="#P" n="46" break="no"/>la doctrine euangete Et primo frustra quae 
+      <lb ed="#P" n="47"/>sisti in scola philosophica disputante 
+      <lb ed="#P" n="48"/>subtilia. nam ecclesie altam sublimitatem 
+      <lb ed="#P" n="49"/>et inaccessibilem / quia altitudo diuiciarum. 
+      <lb ed="#P" n="50"/>2o frustra quaesisti in scola 
+      mathegorematicascru<lb ed="#P" n="51" break="no"/>tante difficilia / namque ecclesie latam 
+      diffi<lb ed="#P" n="52" break="no"/>cultatem et imperscrutabilem / quia sapie et 
+      <lb ed="#P" n="53"/>scie dei. 3o frustra quaesisti in scola 
+      iuridi<lb ed="#P" n="54" break="no"/>ca disceptante ciuilia / nam ecclese firmam 
+      <lb ed="#P" n="55"/>ciuilitatem et imperturbabilem. quia 
+      in<lb ed="#P" n="56" break="no"/>comprehensibilia sunt iudicia eius. 4o 
+      frus<lb ed="#P" n="57" break="no"/>tra quaesisti in scola moysayca pertractam 
+      <lb ed="#P" n="58"/>te vtilia. nam ecclese summam vtilitatem 
+      <lb ed="#P" n="59"/>et incomparabilem / quia inuestigabiles 
+      <lb ed="#P" n="60"/>vie eius. Hec itaque paulo dicente. 
+      <lb ed="#P" n="61"/>assurgunt ei pariter omnes doctores 
+      <lb ed="#P" n="62"/>catholici / et eius concordat sententie Sed 
+      <lb ed="#P" n="63"/>vt vnus loquatur pro omnibus. ecclse 
+      doc<lb ed="#P" n="64" break="no"/>tor veridicus augustinus quasi 
+      senedi<lb ed="#P" n="65" break="no"/>cus aliorum vnus verbum proponit 
+      pro<lb ed="#P" n="66" break="no"/>singulis et dictis pauli testimonium 
+      <lb ed="#P" n="67"/>perhibet veritatis. Vera sunt inquit 
+      <lb ed="#P" n="68"/>que paulus asserit et nichil verius 
+      di<lb ed="#P" n="69" break="no"/>ci potest. Nam in hac sacra doctrina 
+      <lb ed="#P" n="70"/>noua supereminenter continetur quod 
+      <lb ed="#P" n="71"/>quid in aliis vtiliter inuenitur 
+      Quic<lb ed="#P" n="72" break="no"/>quid enim homo extra didicerit / 
+      si<lb ed="#P" n="73" break="no"/>noxium est hic dampnatur / si vtile 
+      <lb ed="#P" n="74"/>est hic inuenitur / et cum ibi quisque 
+      <lb ed="#P" n="75"/>inuenerit omnia quevtiliter alibi 
+      di<lb ed="#P" n="76" break="no"/>dicerit / multo habundantius 
+      inueni<lb ed="#P" n="77" break="no"/>et ea que nusquam alibi inuenire potuit 
+      <lb ed="#P" n="78"/>Verba sunt augustimi. ii de doctrina 
+      <!--18.xml-->
+      <pb ed="#P" n="5-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>christiana. capituo vltimo. Quibus auditis 
+      <lb ed="#P" n="2"/>prostratis in terram genibus corporis et 
+      <lb ed="#P" n="3"/>filexis poplicibus cordis mei doctrine 
+      <lb ed="#P" n="4"/>salubris supriamum doctorem et magistrm ex 
+      <lb ed="#P" n="5"/>oro suppliciter et deuote / humiliter postum 
+      <lb ed="#P" n="6"/>lans cum sapientissimo salomone. 
+      dam<lb ed="#P" n="7" break="no"/>domine sedium tuarum assistricem sapiam 
+      mit<lb ed="#P" n="8" break="no"/>te illam de celis sanctis tuis et a sede 
+      <lb ed="#P" n="9"/>magnitudins tue / vt mecum sit et 
+      me<lb ed="#P" n="10" break="no"/>cum laboret. sapm ixo Qd nobis concedat 
+      <lb ed="#P" n="11"/>qui sine fine viuit et regnat in secula 
+      <lb ed="#P" n="12"/>seculorum Amen.
+      </p>
+            <p xml:id="qweqwe-e14111-d1e1598">
+               <lb ed="#P" n="13"/>¶ Primum principium praememorati 
+        reue<lb ed="#P" n="14" break="no"/>rendissimi pris magistri petri de 
+      ail<lb ed="#P" n="15" break="no"/>lyaco / super primum sententiarum eiusdem
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
