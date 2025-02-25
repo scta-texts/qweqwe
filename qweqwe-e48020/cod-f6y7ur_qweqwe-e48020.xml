@@ -1148,10 +1148,10 @@
       v<lb ed="#P" n="77" break="no"/>nicum dei filium / et cum etiam filius 
       <!--271.xml-->
       <pb ed="#P" n="131-v"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>non sit filius nisi quia genitus / et quia filius 
-      <lb ed="#P" n="2"/>vtique genitus vt dicit augustinus. o de tri. 
-      <lb ed="#P" n="3"/>ca. 6 sequitur quod spiritus sanctus nec est filius nec 
+      <cb ed="#P" n="a"/>
+      <lb ed="#P" n="1"/>non sit filius nisi <quote xml:id="qweqwe-e48020-Qcnq888" source="http://scta.info/resource/adt-l5-d1e702@54-60">quia genitus / et quia filius 
+      <lb ed="#P" n="2"/>vtique genitus</quote> vt dicit <ref xml:id="qweqwe-e48020-Rgn1a22" corresp="#qweqwe-e48020-Qcnq888">augustinus. 5to de tri. 
+      <lb ed="#P" n="3"/>ca. 6</ref> sequitur quod spiritus sanctus nec est filius nec 
       <lb ed="#P" n="4"/>est genitus nec generabilis ad intra et 
       <lb ed="#P" n="5"/>per consequens eius processio passiua non est 
       ge<lb ed="#P" n="6" break="no"/>neratio passiua et sic patet conclusio prima etc. 
