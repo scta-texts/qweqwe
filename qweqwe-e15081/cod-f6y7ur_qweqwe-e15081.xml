@@ -109,9 +109,9 @@
       <lb ed="#P" n="65"/>inuocantibus eum. in psalmus. Cuius eius. 
       <lb ed="#P" n="66"/>Eius a quo omnia ymmo per quem 
       om<lb ed="#P" n="67" break="no"/>nia et in quo omnia. ad colosis illo.
-      A<quote source="http://scta.info/resource/iac1_17@1-7"><lb ed="#P" n="68" break="no"/>quo omne datum optimum et omne donum
+      A<quote xml:id="qweqwe-e15081-Qd1e224" source="http://scta.info/resource/iac1_17@1-7"><lb ed="#P" n="68" break="no"/>quo omne datum optimum et omne donum
       <lb ed="#P" n="69"/>perfectum</quote>. Ia illo. Cuius eius: Eius
-      <lb ed="#P" n="70"/><quote source="http://scta.info/resource/io1_3@7-11">sine quo factum est nichil</quote>. io. 1o Sine
+      <lb ed="#P" n="70"/><quote xml:id="qweqwe-e15081-Qd1e231" source="http://scta.info/resource/io1_3@7-11">sine quo factum est nichil</quote>. io. 1o Sine
       <lb ed="#P" n="71"/>quo vt ait plato nullum recte formatur 
       <lb ed="#P" n="72"/>exordium. Conuertam igiter conuertam me ad 
       <lb ed="#P" n="73"/>eum / et eius misecodiam corde et ore hiis verbis 
@@ -183,7 +183,7 @@
       <lb ed="#P" n="56"/>commune bonum diligitur / hoc autem summum 
       <lb ed="#P" n="57"/>atque verissimum deus est. hic enim 
       docen<lb ed="#P" n="58" break="no"/>tur logici qualiter deus nouit vt veri
-      <lb ed="#P" n="59"/>tas. ego inquit veritatem dico <quote source="http://scta.info/resource/io8_46@11-15">quare
+      <lb ed="#P" n="59"/>tas. ego inquit veritatem dico <quote xml:id="qweqwe-e15081-Qd1e390" source="http://scta.info/resource/io8_46@11-15">quare
       <lb ed="#P" n="60"/>vos non creditis michi</quote>. io. viiiio hic
       <lb ed="#P" n="61"/>docentur phisici qualiter deus agit vt 
       <lb ed="#P" n="62"/>causalitas. Ego inquit sum 
@@ -193,7 +193,7 @@
       <lb ed="#P" n="66"/>caritate in deo manet et deus in eo. 
       <lb ed="#P" n="67"/>lla io. 4o hic docentur politici qualiter 
       <lb ed="#P" n="68"/>deus regnat vt equitas / quia ipse
-      <quote source="http://scta.info/resource/act17_31@7-11">iudica<lb ed="#P" n="69" break="no"/>turus est orbem in equitate</quote>. acter in 7o
+      <quote xml:id="qweqwe-e15081-Qd1e413" source="http://scta.info/resource/act17_31@7-11">iudica<lb ed="#P" n="69" break="no"/>turus est orbem in equitate</quote>. acter in 7o
       <lb ed="#P" n="70"/>Hec igitur noue christi doctrine summa 
       <lb ed="#P" n="71"/>hec est inquit huius libri sententiarum 
       <lb ed="#P" n="72"/>breuis sententia. hiis itaque auditis summa 
@@ -237,16 +237,16 @@
       io<lb ed="#P" n="29" break="no"/>hanni diuimitus inspiratum. io. 1o capitulo. 
       </p>
             <p xml:id="qweqwe-e15081-d1e496">
-               <lb ed="#P" n="30"/>¶ Primum est quod <quote source="http://scta.info/resource/io1_1@1-13">in principio erat
+               <lb ed="#P" n="30"/>¶ Primum est quod <quote xml:id="qweqwe-e15081-Qd1e511" source="http://scta.info/resource/io1_1@1-13">in principio erat
       ver<lb ed="#P" n="31" break="no"/>bum et verbum erat apud deum et deus erat
       <lb ed="#P" n="32"/>verbum</quote> quod est btem trinitatis summum
-      mis<lb ed="#P" n="33" break="no"/>terium / in primo libro Secundum est quod <quote source="http://scta.info/resource/io1_3@1-11">omnia per
+      mis<lb ed="#P" n="33" break="no"/>terium / in primo libro Secundum est quod <quote xml:id="qweqwe-e15081-Qd1e520" source="http://scta.info/resource/io1_3@1-11">omnia per
       <lb ed="#P" n="34"/>ipsum facta sunt et sine ipso factum est
       ni<lb ed="#P" n="35" break="no"/>chil</quote> quod est create entitatis nouum
       vesti<lb ed="#P" n="36" break="no"/>gium / in secundo libro. Tercium est quod
-      <lb ed="#P" n="37"/><quote source="http://scta.info/resource/io1_14@2-5">verbum caro factum est</quote> quod est diuine
+      <lb ed="#P" n="37"/><quote xml:id="qweqwe-e15081-Qd1e531" source="http://scta.info/resource/io1_14@2-5">verbum caro factum est</quote> quod est diuine
       ca<lb ed="#P" n="38" break="no"/>ritatis mirum commercium / in 3o libo
-      Quar<lb ed="#P" n="39" break="no"/>tum est quod <quote source="http://scta.info/resource/io1_14@7-13">habitauit in nobis et vidimus gilriam
+      Quar<lb ed="#P" n="39" break="no"/>tum est quod <quote xml:id="qweqwe-e15081-Qd1e538" source="http://scta.info/resource/io1_14@7-13">habitauit in nobis et vidimus gilriam
       <!--20.xml-->
       <cb ed="#P" n="b"/>
                <lb ed="#P" n="40"/>eius</quote> quod est humane sanitatis prium
@@ -280,7 +280,7 @@
       <lb ed="#P" n="65"/>tractat mag ister illud doctrine christi 
       <lb ed="#P" n="66"/>noue et euangelice legis archanum 
       euan<lb ed="#P" n="67" break="no"/>geliste iohi diumimitus inspiratum. io.
-      <lb ed="#P" n="68"/><quote source="http://scta.info/resource/io1_1@1-13">In princio erat verbum et verbum erat apud
+      <lb ed="#P" n="68"/><quote xml:id="qweqwe-e15081-Qd1e609" source="http://scta.info/resource/io1_1@1-13">In princio erat verbum et verbum erat apud
       <lb ed="#P" n="69"/>deum et deus erat verbum</quote>. Qd est batem
       tri<lb ed="#P" n="70" break="no"/>nitatis summum misterium. Vbi queso 
       vide<lb ed="#P" n="71" break="no"/>te carissimi circa misterium summe 
@@ -366,7 +366,7 @@
       <lb ed="#P" n="58"/>do contra legem christi Sed omnia opera que 
       <lb ed="#P" n="59"/>non fiunt deus non vult fieri. et 
       omni<lb ed="#P" n="60" break="no"/>a opera qua fiunt vult fieri. ideo dicit
-      e<lb ed="#P" n="61" break="no"/>uangelista. <quote source="http://scta.info/resource/io1_3@1-11">Omnia per ipsum facta
+      e<lb ed="#P" n="61" break="no"/>uangelista. <quote xml:id="qweqwe-e15081-Qd1e787" source="http://scta.info/resource/io1_3@1-11">Omnia per ipsum facta
       <lb ed="#P" n="62"/>sunt et sine ipso factum est nichil</quote>. io.
       <lb ed="#P" n="63"/>quare etc. 
          </p>
@@ -404,8 +404,8 @@
         le<lb ed="#P" n="9" break="no"/>ius et promptior ad merita quam ad de 
         <lb ed="#P" n="10"/>merita. Sed minor probatur quia lex christi 
         <lb ed="#P" n="11"/>impat credere articulos fidei / vnde apostols 
-        <lb ed="#P" n="12"/>ait. <quote source="http://scta.info/resource/hebr11_6@1-5">Sn fide inquit impossibile est placere
-        <lb ed="#P" n="13"/>deo</quote> / <quote source="http://scta.info/resource/hebr11_6@6-11">credere enim oportet accedentem ad de
+        <lb ed="#P" n="12"/>ait. <quote xml:id="qweqwe-e15081-Qd1e866" source="http://scta.info/resource/hebr11_6@1-5">Sn fide inquit impossibile est placere
+        <lb ed="#P" n="13"/>deo</quote> / <quote xml:id="qweqwe-e15081-Qd1e872" source="http://scta.info/resource/hebr11_6@6-11">credere enim oportet accedentem ad de
         <lb ed="#P" n="14"/>um</quote> etc ad heb. xi. sed non credere
         deme<lb ed="#P" n="15" break="no"/>ritorium es quia quae non crediderit 
         condempnabi<lb ed="#P" n="16" break="no"/>tur. mgi vilerlo. Credere vero non est 
@@ -736,7 +736,7 @@
       preuari<lb ed="#P" n="43" break="no"/>cator Vnde psalmista ait. Preuaricato 
       <lb ed="#P" n="44"/>res repuntaui omnes peccatores 
       ter<lb ed="#P" n="45" break="no"/>re. Preuaricatio autem est legis
-      trans<lb ed="#P" n="46" break="no"/>gressio quia secundum apostolum Ro. 4o <quote source="http://scta.info/resource/rom4_15@5-11">Vbi
+      trans<lb ed="#P" n="46" break="no"/>gressio quia secundum apostolum Ro. 4o <quote xml:id="qweqwe-e15081-Qd1e1535" source="http://scta.info/resource/rom4_15@5-11">Vbi
       <lb ed="#P" n="47"/>non est lex nec praeuaricatio</quote>. igitur etc
       <lb ed="#P" n="48"/>Sic igitur circa primam 
       conclusio<lb ed="#P" n="49" break="no"/>nem probate sunt sex propositiones praesam 
@@ -857,7 +857,7 @@
       quodli<lb ed="#P" n="55" break="no"/>bet istorum patet ex dictis / tamen 
       pro<lb ed="#P" n="56" break="no"/>vltimo facit specialiter illud quod 
       chris<lb ed="#P" n="57" break="no"/>tus dicit de seipso. lucr. duodecimo.
-      <quote source="http://scta.info/resource/lc12_50@1-10"><lb ed="#P" n="58"/>Gaptismo inquit habeo baptizari et
+      <quote xml:id="qweqwe-e15081-Qd1e1767" source="http://scta.info/resource/lc12_50@1-10"><lb ed="#P" n="58"/>Gaptismo inquit habeo baptizari et
       <lb ed="#P" n="59"/>quomodo coartor usque dum
       perfici<lb ed="#P" n="60" break="no"/>atur</quote> etc
     </p>
@@ -1122,7 +1122,7 @@
       <lb ed="#P" n="20"/>nec mirum si hoc modo voluntas 
       di<lb ed="#P" n="21" break="no"/>uina dicatur lex eterna. Nam sic 
       eci<lb ed="#P" n="22" break="no"/>am noua christi doctrina dicitur 
-      euan<lb ed="#P" n="23" break="no"/>gelium eternum. apo. 14. <quote source="http://scta.info/resource/ap14_6@1-26">Vidi
+      euan<lb ed="#P" n="23" break="no"/>gelium eternum. apo. 14. <quote xml:id="qweqwe-e15081-Qd1e2282" source="http://scta.info/resource/ap14_6@1-26">Vidi
       in<lb ed="#P" n="24" break="no"/>quit angelum alterum volantem per
       <lb ed="#P" n="25"/>medium celi habentem euangelium
       <lb ed="#P" n="26"/>eternum: vt euangelizaret sedentibus
@@ -1259,7 +1259,7 @@
       <lb ed="#P" n="52"/>vt patet per illud verbum christi. io. 15 
       <lb ed="#P" n="53"/>Si locutus eis non fuissem peccatum 
       <lb ed="#P" n="54"/>non haberent etc Et per illud apostoli
-      <lb ed="#P" n="55"/>ro. 10. <quote source="http://scta.info/resource/rom10_14@9-14">Quo credent ei / quem non
+      <lb ed="#P" n="55"/>ro. 10. <quote xml:id="qweqwe-e15081-Qd1e2556" source="http://scta.info/resource/rom10_14@9-14">Quo credent ei / quem non
       audi<lb ed="#P" n="56" break="no"/>erunt</quote> etc
     </p>
             <p xml:id="qweqwe-e15081-d1e2519">
@@ -1374,7 +1374,7 @@
       <lb ed="#P" n="49"/>continentur doctrine morales gentilium 
       <lb ed="#P" n="50"/>philosophorum et regule vel constitutiones 
       <lb ed="#P" n="51"/>legales principum et maiorum et 
-      de<lb ed="#P" n="52" break="no"/>huiusmoi signis de. apostols quod <quote source="http://scta.info/resource/rom2_14@1-12">gentes que
+      de<lb ed="#P" n="52" break="no"/>huiusmoi signis de. apostols quod <quote xml:id="qweqwe-e15081-Qd1e2766" source="http://scta.info/resource/rom2_14@1-12">gentes que
       <lb ed="#P" n="53"/>legem non habent naturaliter que
       le<lb ed="#P" n="54" break="no"/>gis sunt faciunt</quote>
     </p>
@@ -1394,7 +1394,7 @@
       <lb ed="#P" n="63"/>quo ad illa que docuerunt apostoli et 
       disci<lb ed="#P" n="64" break="no"/>puli eius auctoritate sua / et si militer 
       <lb ed="#P" n="65"/>determinatio ecclesie dei a spiritum sancto 
-      <lb ed="#P" n="66"/>inspirata de quibus dicitur quod <quote source="http://scta.info/resource/IIpetr1_21@10-17">spiritum
+      <lb ed="#P" n="66"/>inspirata de quibus dicitur quod <quote xml:id="qweqwe-e15081-Qd1e2805" source="http://scta.info/resource/IIpetr1_21@10-17">spiritum
       sancto<lb ed="#P" n="67" break="no"/>inspirati locuti sunt sancti dei homines</quote>
       <lb ed="#P" n="68"/>lla petri primo. Gia ergo praedicta sunt
       <lb ed="#P" n="69"/>diuine voluntatis signa obligatoria quia 
