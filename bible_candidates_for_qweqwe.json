@@ -1,0 +1,978 @@
+{
+  "qweqwe-e14111": {
+    "qweqwe-e14111-d1e178": [
+      {
+        "candidate_id": "sir15_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14111-d1e213": [
+      {
+        "candidate_id": "ps54_6",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14111-d1e452": [
+      {
+        "candidate_id": "prov30_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iob26_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14111-d1e478": [
+      {
+        "candidate_id": "sir1_2",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14111-d1e515": [
+      {
+        "candidate_id": "lc22_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14111-d1e531": [
+      {
+        "candidate_id": "act10_43",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no verbatim match in this MS passage"
+      },
+      {
+        "candidate_id": "gen24_40",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS Genesis refs (17, 12) don't match this verse"
+      },
+      {
+        "candidate_id": "rom3_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared vocabulary only, no verbatim match"
+      },
+      {
+        "candidate_id": "io1_17",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lev19_31",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps37_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom11_33",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap9_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps23_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_22",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IItim2_24",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e15081": {
+    "qweqwe-e15081-d1e104": [
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 12,
+        "status": "not_found",
+        "note": "no verbatim match \u2014 different quote (James, John) found here instead"
+      },
+      {
+        "candidate_id": "act17_31",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_46",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e496": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e529": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e730": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e817": [
+      {
+        "candidate_id": "hebr11_6",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e1458": [
+      {
+        "candidate_id": "rom4_15",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e1717": [
+      {
+        "candidate_id": "lc12_50",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e2186": [
+      {
+        "candidate_id": "ap14_6",
+        "intersectionCount": 15,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e2475": [
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e2674": [
+      {
+        "candidate_id": "rom2_14",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e15081-d1e2745": [
+      {
+        "candidate_id": "IIpetr1_21",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e57711": {
+    "qweqwe-e57711-d1e174": [
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 this instance matches ps48_21 wording more closely"
+      },
+      {
+        "candidate_id": "ps48_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e382": [
+      {
+        "candidate_id": "ps118_105",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e489": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e507": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e524": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e606": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e639": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt27_51",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no verbatim match in this paragraph"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e57711-d1e2216": [
+      {
+        "candidate_id": "lc10_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e88961": {
+    "qweqwe-e88961-d1e109": [
+      {
+        "candidate_id": "ps84_6",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps11_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e88961-d1e528": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e88961-d1e1999": [
+      {
+        "candidate_id": "lc10_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e88961-d1e2210": [
+      {
+        "candidate_id": "IIpetr1_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e11237": {
+    "qweqwe-e11237-d1e157": [
+      {
+        "candidate_id": "act10_43",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no verbatim match \u2014 shared 'credunt in eum' phrase only"
+      },
+      {
+        "candidate_id": "os6_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps40_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps6_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom3_22",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ez34_13",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io11_25",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps71_12",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps87_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_12",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e11237-d1e519": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e11237-d1e537": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e14054": {
+    "qweqwe-e14054-d1e4264": [
+      {
+        "candidate_id": "act1_8",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e14054-d1e4318": [
+      {
+        "candidate_id": "io10_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 the MS citation 'io. vo' and exact wording match io5_36, not io10_25"
+      },
+      {
+        "candidate_id": "hebr11_37",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr6_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_36",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e22154": {
+    "qweqwe-e22154-d1e2809": [
+      {
+        "candidate_id": "hebr11_6",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e22154-d1e3200": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e27323": {
+    "qweqwe-e27323-d1e167": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 encoded as ps13_1 instead; identical wording in both psalms"
+      }
+    ],
+    "qweqwe-e27323-d1e3848": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "indirect \u2014 describing Anselm's Proslogion argument, not a direct scriptural citation"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 encoded as ps13_1 instead"
+      }
+    ]
+  },
+  "qweqwe-e32994": {
+    "qweqwe-e32994-d1e203": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paraphrase attributed to Augustine (De Trinitate), not a direct Pauline citation \u2014 wording diverges too (intellectum conspicientes vs intellecta conspiciuntur)"
+      }
+    ]
+  },
+  "qweqwe-e48020": {
+    "qweqwe-e48020-d1e2272": [
+      {
+        "candidate_id": "io3_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e51421": {
+    "qweqwe-e51421-d1e157": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e51421-d1e569": [
+      {
+        "candidate_id": "lc1_35",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "tit3_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e51421-d1e1242": [
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "embedded within an Augustine citation, but wording is verbatim 1 John 4:16"
+      },
+      {
+        "candidate_id": "Icor13_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e51421-d1e1746": [
+      {
+        "candidate_id": "lc17_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e51421-d1e2432": [
+      {
+        "candidate_id": "sap11_25",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e51421-d1e4431": [
+      {
+        "candidate_id": "IIth1_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e58205": {
+    "qweqwe-e58205-d1e595": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 identical wording in io14_10 and io14_11, encoded as io14_10"
+      }
+    ]
+  },
+  "qweqwe-e59477": {
+    "qweqwe-e59477-d1e2173": [
+      {
+        "candidate_id": "num5_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "thematic overlap only (virginity/corruption) \u2014 no actual citation of Numbers 5 in this paragraph (Jerome/Augustine/Anselm are cited instead)"
+      }
+    ],
+    "qweqwe-e59477-d1e3502": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e64830": {
+    "qweqwe-e64830-d1e244": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e1273": [
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e1532": [
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e1589": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e2227": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e3504": [
+      {
+        "candidate_id": "mc14_21",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 nearly identical wording in Matt 26:24 and Mark 14:21; encoded as mt26_24"
+      },
+      {
+        "candidate_id": "mt26_24",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e5348": [
+      {
+        "candidate_id": "lc12_47",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e64830-d1e5666": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "duplicate refrain \u2014 encoded as ps13_1"
+      }
+    ],
+    "qweqwe-e64830-d1e6218": [
+      {
+        "candidate_id": "IIchr18_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "duplicate parallel account \u2014 nearly identical wording in 1 Kings 22:22 and 2 Chr 18:21; encoded as Ireg22_22"
+      },
+      {
+        "candidate_id": "Ireg22_22",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e71405": {
+    "qweqwe-e71405-d1e895": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e71405-d1e944": [
+      {
+        "candidate_id": "gen18_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e71405-d1e1312": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e71405-d1e1325": [
+      {
+        "candidate_id": "col1_17",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no verbatim match \u2014 shared vocabulary only"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e71405-d1e1469": [
+      {
+        "candidate_id": "eph1_11",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e71405-d1e2216": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "no biblical content in this paragraph \u2014 it's about physics of celestial motion; false positive"
+      }
+    ]
+  },
+  "qweqwe-e75798": {
+    "qweqwe-e75798-d1e245": [
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e75798-d1e871": [
+      {
+        "candidate_id": "iac4_17",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e75798-d1e2053": [
+      {
+        "candidate_id": "lc12_47",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e75798-d1e2303": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e75798-d1e3817": [
+      {
+        "candidate_id": "ps144_9",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e79989": {
+    "qweqwe-e79989-d1e1106": [
+      {
+        "candidate_id": "dan14_41",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared 'non est alius' phrase only; MS citation explicitly points to Deut 4:35"
+      },
+      {
+        "candidate_id": "is45_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared vocabulary only; MS citation explicitly points to Deut 4:35"
+      },
+      {
+        "candidate_id": "mc12_32",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shared vocabulary only; MS citation explicitly points to Deut 4:35"
+      },
+      {
+        "candidate_id": "deut4_35",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "paraphrase \u2014 MS citation 'deunter. 35o' points explicitly to this verse though wording diverges"
+      },
+      {
+        "candidate_id": "is46_9",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 shared vocabulary only; MS citation explicitly points to Deut 4:35"
+      },
+      {
+        "candidate_id": "ps80_10",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e79989-d1e2086": [
+      {
+        "candidate_id": "io8_58",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e86542": {
+    "qweqwe-e86542-d1e131": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e86542-d1e551": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e86542-d1e1990": [
+      {
+        "candidate_id": "rom3_28",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e86542-d1e2157": [
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e86542-d1e2357": [
+      {
+        "candidate_id": "io3_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e86542-d1e2413": [
+      {
+        "candidate_id": "io15_22",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e91529": {
+    "qweqwe-e91529-d1e239": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e91529-d1e319": [
+      {
+        "candidate_id": "act8_17",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e91529-d1e389": [
+      {
+        "candidate_id": "lc24_49",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act4_33",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "qweqwe-e92475": {
+    "qweqwe-e92475-d1e336": [
+      {
+        "candidate_id": "mt26_28",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e627": [
+      {
+        "candidate_id": "Icor11_29",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e709": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "duplicate \u2014 same 'hoc facite in meam commemorationem' clause; encoded as Icor11_24 given 1 Cor 11:26 context in same paragraph"
+      }
+    ],
+    "qweqwe-e92475-d1e761": [
+      {
+        "candidate_id": "io6_64",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e1084": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e1788": [
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e1827": [
+      {
+        "candidate_id": "io6_64",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "qweqwe-e92475-d1e3260": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no biblical content \u2014 paragraph is a scholastic physics argument about location; false positive"
+      }
+    ],
+    "qweqwe-e92475-d1e5917": [
+      {
+        "candidate_id": "Isam17_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no biblical content \u2014 paragraph is a scholastic discussion of Christ's presence in the Eucharist; false positive"
+      }
+    ]
+  }
+}

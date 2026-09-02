@@ -140,8 +140,8 @@
       <lb ed="#P" n="41"/>Tercio patet quid sit forma huius 
       sacra<lb ed="#P" n="42" break="no"/>menti quia certa verba ista scilicet signo vel 
       <lb ed="#P" n="43"/>consigno te signo crucis / confirmo te 
-      cris<lb ed="#P" n="44" break="no"/>mate salutis vel sanctificationis / in 
-      <lb ed="#P" n="45"/>nomine patris et filii et spiritus sancti 
+      cris<lb ed="#P" n="44" break="no"/>mate salutis vel sanctificationis / <quote source="http://scta.info/resource/mt28_19@8-15">in
+      <lb ed="#P" n="45"/>nomine patris et filii et spiritus sancti</quote>
       <lb ed="#P" n="46"/>amen
     </p>
                <p xml:id="qweqwe-e91529-d1e274">
@@ -174,9 +174,9 @@
       <lb ed="#P" n="69"/>sacramenti est acceptio spiritus sancti 
       <lb ed="#P" n="70"/>ad robur contra omnia temptamenta et 
       confor<lb ed="#P" n="71" break="no"/>tatio anime in virtute et spectialiter in virtute 
-      <lb ed="#P" n="72"/>constantie in fidei confessione Vnde act 8o 
-      <lb ed="#P" n="73"/>Tunc imponebant manus super illos et 
-      ac<lb ed="#P" n="74" break="no"/>cipiebant spiritus sanctus Et sic patent 6 correlaria circa 
+      <lb ed="#P" n="72"/>constantie in fidei confessione Vnde act 8o
+      <quote source="http://scta.info/resource/act8_17@1-9"><lb ed="#P" n="73"/>Tunc imponebant manus super illos et
+      ac<lb ed="#P" n="74" break="no"/>cipiebant spiritus sanctus</quote> Et sic patent 6 correlaria circa
       <lb ed="#P" n="75"/>istud sacramentum
     </p>
                <p xml:id="qweqwe-e91529-d1e343">
@@ -232,9 +232,9 @@
       <!--490.xml-->
       <cb ed="#P" n="b"/>
                   <lb ed="#P" n="40"/>tenet libro 8o ca. 9. quod ista verba vel eo 
-      <lb ed="#P" n="41"/>rum sensus scilicet in nomine patris et filii 
-      <lb ed="#P" n="42"/>et spiritus sancti sint forma bapti 
-      mi<lb ed="#P" n="43" break="no"/>quamuis exigantur alia verba. Et ita 
+      <lb ed="#P" n="41"/>rum sensus scilicet <quote source="http://scta.info/resource/mt28_19@8-15">in nomine patris et filii
+      <lb ed="#P" n="42"/>et spiritus sancti</quote> sint forma bapti
+      mi<lb ed="#P" n="43" break="no"/>quamuis exigantur alia verba. Et ita
       <lb ed="#P" n="44"/>consequenter dicit de predictis sacramentis 
       <lb ed="#P" n="45"/>Sed quia hoc communiter non tenetur non 
       <lb ed="#P" n="46"/>assero licet iste bene loquatur consequenter 
@@ -278,13 +278,13 @@
       <lb ed="#P" n="3"/>a habundantius quam in aliis sacramentis 
       <lb ed="#P" n="4"/>in isto datur vigor resistendi peccatis 
       <lb ed="#P" n="5"/>et principalis effectus eius est 
-      confir<lb ed="#P" n="6" break="no"/>mare animam in virtute / iuxta illud. 
-      <lb ed="#P" n="7"/>Vos autem sedete in ciuitate quousqus 
-      <lb ed="#P" n="8"/>induamim virtute ex alto. Et 
-      preci<lb ed="#P" n="9" break="no"/>pue in virtute constantis 
-      confession<lb ed="#P" n="10" break="no"/>fidei / iuxta illud acter 4o Virtute 
-      mag<lb ed="#P" n="11" break="no"/>na reddebant apostoli testimonium / 
-      <lb ed="#P" n="12"/>resurrectionis domini etc. In aliis ant 
+      confir<lb ed="#P" n="6" break="no"/>mare animam in virtute / iuxta illud.
+      <quote source="http://scta.info/resource/lc24_49@9-18"><lb ed="#P" n="7"/>Vos autem sedete in ciuitate quousqus
+      <lb ed="#P" n="8"/>induamim virtute ex alto</quote>. Et
+      preci<lb ed="#P" n="9" break="no"/>pue in virtute constantis
+      confession<lb ed="#P" n="10" break="no"/>fidei / iuxta illud acter 4o <quote source="http://scta.info/resource/act4_33@2-7">Virtute
+      mag<lb ed="#P" n="11" break="no"/>na reddebant apostoli testimonium</quote> /
+      <lb ed="#P" n="12"/>resurrectionis domini etc. In aliis ant
       <lb ed="#P" n="13"/>sacramentis est alius effectus proprius. 
       <lb ed="#P" n="14"/>ideo hoc solum vocatur confirmatio etc 
       </p>
